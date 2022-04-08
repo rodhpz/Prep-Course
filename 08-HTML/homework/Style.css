@@ -1,0 +1,20 @@
+.divClass h1 {
+    color: darkred;
+}
+
+#thirdDiv {
+    width: 500 px;
+    height: 600 px;
+    background-color: darkcyan;
+    padding: 50 px;
+    border: 3 px solid green;
+}
+
+#img {
+    width: 400px;
+}
+
+#spanId {
+    font-size: 18 px;
+    margin: 50 px;
+}
